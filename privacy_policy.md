@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Damir Isanbirdin built the Clipstore app as a Free app. This SERVICE is provided by Damir Isanbirdin at no cost and is intended for use as is.
+Damir Isanbirdin built the Clipstore app. This SERVICE is intended for use AS IS.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
